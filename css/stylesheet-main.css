@@ -21,7 +21,7 @@ header{
   position: fixed;
   min-width: 100vw;
   max-width: 100vw;
-  background: linear-gradient(90deg, rgba(62, 65, 255, 0.82) 0%, rgba(24, 38, 117, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center;
+  background: linear-gradient(90deg, rgba(100, 100, 55, 0.82) 0%, rgba(100, 100, 55, 0.9) 100%), url(https://cdn.discordapp.com/attachments/944699619496050718/967925917844373525/unknown.png) center center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   display: flex;
@@ -55,7 +55,7 @@ header{
   text-align: center;
   border: 2px solid;
   padding: 0.5em 1em;
-  background-color: rgb(31, 34, 53);
+  background-color: rgb(100, 100, 55);
   border-radius: 1em;
   color:#7e9cff !important;
   font-weight: bold;
@@ -105,7 +105,7 @@ header{
 
 /*Additional information aka the right panel aka HELL*/
 #additional-information{
-  background: linear-gradient(185deg, rgb(22, 22, 34)65%, rgb(10, 10, 20));
+  background: linear-gradient(185deg, rgb(100, 100, 55)65%, rgb(10, 10, 20));
   position: fixed;
   top: 100px;
   right: 0;
