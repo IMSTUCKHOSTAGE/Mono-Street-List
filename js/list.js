@@ -10,7 +10,6 @@
       verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
     },
   ],
-    },
         /*=============================================================================*/
     {
       vids: [
