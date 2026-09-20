@@ -6,7 +6,7 @@ const d = {
         // { user: "", link: "", percent: 100, hz: "" },
       ],
       name: "first to be mono lowkey a bum",
-      author: "", // fill in
+      author: "Potatil", // fill in
       id: 148988591,
       percentToQualify: 0, // fill in
       verificationVid: "https://youtu.be/0GeD-jdRYgY",
@@ -14,8 +14,8 @@ const d = {
     /*=============================================================================*/
     {
       vids: [],
-      name: "eu passei",
-      author: "Ando7",
+      name: "eu passei i beat it",
+      author: "Ando7 [DIDY]",
       id: 149214067,
       percentToQualify: 67,
       verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
