@@ -3,18 +3,13 @@ const d = {
     /*=============================================================================*/
     {
       vids: [
-        {
-          user: "example victor",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          percent: 100,
-          hz: "360hz",
-        },
+        // { user: "", link: "", percent: 100, hz: "" },
       ],
-      name: "eu passei",
-      author: "Ando7",
-      id: 149214067,
-      percentToQualify: 67,
-      verificationVid: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      name: "first to be mono lowkey a bum",
+      author: "", // fill in
+      id: 148988591,
+      percentToQualify: 0, // fill in
+      verificationVid: "https://youtu.be/0GeD-jdRYgY",
     },
     /*=============================================================================*/
     {
@@ -24,17 +19,6 @@ const d = {
       id: 149214067,
       percentToQualify: 67,
       verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
-    },
-    /*=============================================================================*/
-    {
-      vids: [
-        // { user: "", link: "", percent: 100, hz: "" },
-      ],
-      name: "first to be mono lowkey a bum",
-      author: "", // fill in
-      id: 148988591,
-      percentToQualify: 0, // fill in
-      verificationVid: "https://youtu.be/0GeD-jdRYgY",
     },
   ],
   version: [3, 5, 0],
