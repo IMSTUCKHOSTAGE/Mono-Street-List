@@ -1,16 +1,6 @@
  const d = {
   list: [
     /*=============================================================================*/
-       {
-      vids: [],
-      name: "eu passei",
-      author: "Ando7",
-      id: 149214067,
-      percentToQualify: 67,
-      verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
-    },
-  ],
-        /*=============================================================================*/
     {
       vids: [
         {
@@ -27,6 +17,16 @@
       verificationVid: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   version: [3, 5, 0],
 };
+        /*=============================================================================*/
+       {
+      vids: [],
+      name: "eu passei",
+      author: "Ando7",
+      id: 149214067,
+      percentToQualify: 67,
+      verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
+    },
+  ],
 const list = d.list;
 const version = d.version;
 console.log(
