@@ -17,6 +17,7 @@
       verificationVid: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   version: [3, 5, 0],
 };
+]
         /*=============================================================================*/
        {
       vids: [],
