@@ -1,6 +1,17 @@
  const d = {
   list: [
     /*=============================================================================*/
+       {
+      vids: [],
+      name: "eu passei",
+      author: "Ando7",
+      id: 149214067,
+      percentToQualify: 67,
+      verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
+    },
+  ],
+    },
+        /*=============================================================================*/
     {
       vids: [
         {
@@ -10,22 +21,11 @@
           hz: "360hz",
         },
       ],
-      name: "mono acheron",
-      author: "monodynamics",
-      id: 81835814,
-      percentToQualify: 100,
+      name: "eu passei",
+      author: "Ando7",
+      id: 149214067,
+      percentToQualify: ,
       verificationVid: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    },
-        /*=============================================================================*/
-       {
-      vids: [],
-      name: "example level",
-      author: "tung",
-      id: 66710746,
-      percentToQualify: 100,
-      verificationVid: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    },
-  ],
   version: [3, 5, 0],
 };
 const list = d.list;
