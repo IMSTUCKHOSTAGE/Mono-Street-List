@@ -16,7 +16,7 @@ const d = {
       vids: [
         // { user: "", link: "", percent: 100, hz: "" },
       ],
-      name: "The better unnamed 2eu passei i beat it",
+      name: "eu passei i beat it",
       author: "Ando7 (DIDY)", // fill in
       id: 149214067,
       percentToQualify: 50, // fill in
