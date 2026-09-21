@@ -15,7 +15,7 @@ const d = {
     {
       vids: [],
       name: "eu passei i beat it",
-      author: "Ando7 [DIDY]",
+      author: "Ando7 (DIDY)",
       id: 149214067,
       percentToQualify: 67,
       verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
