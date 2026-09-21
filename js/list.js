@@ -8,10 +8,21 @@ const d = {
       name: "first to be mono lowkey a bum",
       author: "Potatil", // fill in
       id: 148988591,
-      percentToQualify: 0, // fill in
+      percentToQualify: 70, // fill in
       verificationVid: "https://youtu.be/0GeD-jdRYgY",
     },
-    /*=============================================================================*/
+        /*=============================================================================*/
+    {
+      vids: [
+        // { user: "", link: "", percent: 100, hz: "" },
+      ],
+      name: "The better unnamed 2",
+      author: "makermemes", // fill in
+      id: 148988591,
+      percentToQualify: 50, // fill in
+      verificationVid: "https://www.youtube.com/watch?v=XsQ9Xe8Fm1c",
+    },
+        /*=============================================================================*/
     {
       vids: [],
       name: "eu passei i beat it",
