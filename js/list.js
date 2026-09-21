@@ -5,7 +5,7 @@ const d = {
       vids: [
         // { user: "", link: "", percent: 100, hz: "" },
       ],
-      name: "first to be mono lowkey a bum",
+      name: "mono lowkey a bum",
       author: "Potatil", // fill in
       id: 148988591,
       percentToQualify: 70, // fill in
