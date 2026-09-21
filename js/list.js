@@ -16,18 +16,18 @@ const d = {
       vids: [
         // { user: "", link: "", percent: 100, hz: "" },
       ],
-      name: "The better unnamed 2",
-      author: "makermemes", // fill in
-      id: 148988591,
+      name: "The better unnamed 2eu passei i beat it",
+      author: "Ando7 (DIDY)", // fill in
+      id: 149214067,
       percentToQualify: 50, // fill in
       verificationVid: "https://www.youtube.com/watch?v=XsQ9Xe8Fm1c",
     },
         /*=============================================================================*/
     {
       vids: [],
-      name: "eu passei i beat it",
-      author: "Ando7 (DIDY)",
-      id: 149214067,
+      name: "The better unnamed 2",
+      author: "makermemes",
+      id: 148988591,
       percentToQualify: 67,
       verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
     },
