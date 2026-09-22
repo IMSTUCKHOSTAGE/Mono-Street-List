@@ -25,16 +25,23 @@ const d = {
       author: "Ando7 (DIDY)", // fill in
       id: 149214067,
       percentToQualify: 50, // fill in
-      verificationVid: "https://www.youtube.com/watch?v=XsQ9Xe8Fm1c",
+      verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
     },
         /*=============================================================================*/
     {
-      vids: [],
+      vids: [
+        {
+          user: "Mono",
+          link: "https://www.youtube.com/watch?v=KJsAB7-Pso8",
+          percent: 100,
+          hz: "224hz",
+        },
+      ],
       name: "The better unnamed 2",
-      author: "makermemes",
+      author: "makermemes, mono",
       id: 148988591,
       percentToQualify: 67,
-      verificationVid: "https://youtu.be/x9oJxWBDkBA?is=qh6Ez-1Vy7K4TKPV",
+      verificationVid: "https://www.youtube.com/watch?v=KJsAB7-Pso8",
     },
   ],
   version: [3, 5, 0],
