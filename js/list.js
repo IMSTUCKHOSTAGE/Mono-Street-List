@@ -29,17 +29,9 @@ const d = {
     },
         /*=============================================================================*/
     {
-      vids: [
-        {
-          user: "Mono",
-          link: "https://www.youtube.com/watch?v=KJsAB7-Pso8",
-          percent: 100,
-          hz: "224hz",
-        },
-      ],
+      vids: [],
       name: "The better unnamed 2",
-      author: "makermemes",
-      verification: "mono",
+      author: "monodynamics (DIDY)",
       id: 148988591,
       percentToQualify: 67,
       verificationVid: "https://www.youtube.com/watch?v=KJsAB7-Pso8",
