@@ -14,7 +14,12 @@ const d = {
         /*=============================================================================*/
     {
       vids: [
-        // { user: "", link: "", percent: 100, hz: "" },
+        {
+          user: "Potatil",
+          link: "https://youtu.be/GpZzpUfmAXM",
+          percent: 100,
+          hz: "??hz",
+        }, // { user: "", link: "", percent: 100, hz: "" },
       ],
       name: "eu passei i beat it",
       author: "Ando7 (DIDY)", // fill in
